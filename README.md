@@ -117,3 +117,81 @@ graph TD
     style B fill:#FFFFFF,stroke:#000080,stroke-width:2px,color:#000080
     style H fill:#FFFFFF,stroke:#000080,stroke-width:4px,color:#000080
     style K fill:#138808,stroke:#000000,stroke-width:2px,color:#FFFFFF
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9933,FFFFFF,138808&height=100&section=header&text=Installation%20Protocols&fontSize=35&fontColor=FFFFFF&fontAlign=50&animation=fadeIn" width="100%"/>
+
+<details>
+<summary><b>🔻 CLICK TO OPEN: INITIALIZATION PROTOCOLS</b></summary>
+
+**System Requirements:**
+
+* Node.js `v16.0+`
+* NPM/Yarn Package Manager
+
+**Sequence:**
+
+**1. Clone the Repository**
+
+```bash
+git clone https://github.com/KaustavDev/Mandi-AI-26Jan-Challenge.git
+cd Mandi-AI-26Jan-Challenge
+```
+
+**2. Install Dependencies**
+
+```bash
+npm install
+# OR
+yarn install
+```
+
+**3. Ignite Local Server**
+
+```bash
+npm run dev
+```
+
+**4. Access Portal**
+
+Initialize connection at: `http://localhost:5173`
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=138808,FFFFFF,FF9933&height=100&section=header&text=Neural%20Directory%20Structure&fontSize=35&fontColor=FFFFFF&fontAlign=50&animation=fadeIn" width="100%"/>
+
+```text
+MANDI_AI_ROOT/
+├── 📂 .kiro/               # [CLASSIFIED] Prompt Engineering History
+├── 📂 public/              # Static Assets & Manifests
+├── 📂 src/
+│   ├── 📂 components/      # React Modular Units
+│   │   ├── 👁️ CameraScanner.jsx
+│   │   ├── 🗣️ NegotiationFeed.jsx
+│   │   └── 🌏 LanguageDrawer.jsx
+│   ├── 📂 data/            # Static Market Data
+│   ├── ⚛️ App.jsx          # Neural Core
+│   └── 🎨 index.css        # Organic Stylesheet
+├── 📜 .gitignore           # Exclusion Rules
+└── 📄 README.md            # System Documentation
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9933,FFFFFF,138808&height=100&section=header&text=Hackathon%20Compliance&fontSize=35&fontColor=FFFFFF&fontAlign=50&animation=fadeIn" width="100%"/>
+
+## 🏆 26 Jan Prompt Challenge: Student Track
+
+| CRITERION | STATUS | IMPLEMENTATION |
+|-----------|--------|----------------|
+| Patriotism | ✅ | "Visions of Bharat" via 22+ Language Support |
+| Innovation | ✅ | Autonomous Negotiation (Not just translation) |
+| Access | ✅ | Voice-First / Icon-Only "Organic" UI |
+| Tech Stack | ✅ | Kiro Generated (Prompt History in `/.kiro`) |
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=138808&height=200&section=footer&text=Jai%20Hind%20•%20Jai%20Kisan&fontSize=60&fontColor=FFFFFF&animation=fadeIn" alt="Footer" width="100%"/>
+
+**Built with 🧡🤍💚 for the Farmers of India.**
+
+© 2026 Mandi.AI Networks
+
+</div>
