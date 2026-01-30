@@ -64,7 +64,28 @@ The core innovation. An AI Agent that secures the best price (MSP + Alpha).
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9933,FFFFFF,138808&height=100&section=header&text=The%20Happy%20Farmer%20Flow&fontSize=35&fontColor=FFFFFF&fontAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9933,FFFFFF,138808&height=100&section=header&text=Usage%20Protocols:%20How%20to%20Operate&fontSize=35&fontColor=FFFFFF&fontAlign=50&animation=fadeIn" width="100%"/>
+
+### 👨‍🌾 For the Farmer (Kisan Mode)
+
+1.  **Initialize:** Open the web app. The system automatically detects your region.
+2.  **Select Bhasha:** Tap the microphone icon or select your local language (e.g., *Bhojpuri*).
+    * *System Response:* Entire UI translates instantly.
+3.  **List Crop:** Tap the big green **"Sell Crop"** button.
+    * **Option A (Camera):** Point phone at crop -> AI scans quality.
+    * **Option B (Manual):** Tap the crop icon in the visual grid.
+4.  **Auto-Negotiate:** Sit back. The **Bhaav-Taav Agent** will start bidding with buyers on the screen.
+5.  **Seal Deal:** When the price hits the green zone, tap **"Manzoor Hai"** (Accept).
+
+### 🏢 For the Buyer (Vyapari Mode)
+
+1.  **Register:** Enter business GST/Pan details (Simulated).
+2.  **Market View:** See a live map of crops available in nearby villages.
+3.  **Bid:** Place a bid on a lot. The Farmer's AI agent will instantly counter-offer if your bid is too low.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=138808,FFFFFF,FF9933&height=100&section=header&text=The%20Happy%20Farmer%20Flow&fontSize=35&fontColor=FFFFFF&fontAlign=50&animation=fadeIn" width="100%"/>
 
 ```mermaid
 graph TD
@@ -96,3 +117,4 @@ graph TD
     style B fill:#FFFFFF,stroke:#000080,stroke-width:2px,color:#000080
     style H fill:#FFFFFF,stroke:#000080,stroke-width:4px,color:#000080
     style K fill:#138808,stroke:#000000,stroke-width:2px,color:#FFFFFF
+    
