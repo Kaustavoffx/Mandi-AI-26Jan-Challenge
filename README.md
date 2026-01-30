@@ -13,9 +13,9 @@
 
 <br/>
 
-[React Core](https://img.shields.io/badge/REACT_CORE-FF9933?style=for-the-badge&logo=react&logoColor=white)
-[Tailwind Desi](https://img.shields.io/badge/TAILWIND_UI-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=000080&labelColor=white)
-[Kiro Agent](https://img.shields.io/badge/POWERED_BY_KIRO-138808?style=for-the-badge&logo=openai&logoColor=white)
+![React Core](https://img.shields.io/badge/REACT_CORE-FF9933?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind Desi](https://img.shields.io/badge/TAILWIND_UI-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=000080&labelColor=white)
+![Kiro Agent](https://img.shields.io/badge/POWERED_BY_KIRO-138808?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -117,6 +117,9 @@ graph TD
     style B fill:#FFFFFF,stroke:#000080,stroke-width:2px,color:#000080
     style H fill:#FFFFFF,stroke:#000080,stroke-width:4px,color:#000080
     style K fill:#138808,stroke:#000000,stroke-width:2px,color:#FFFFFF
+```
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9933,FFFFFF,138808&height=100&section=header&text=Installation%20Protocols&fontSize=35&fontColor=FFFFFF&fontAlign=50&animation=fadeIn" width="100%"/>
 
@@ -157,6 +160,8 @@ Initialize connection at: `http://localhost:5173`
 
 </details>
 
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=138808,FFFFFF,FF9933&height=100&section=header&text=Neural%20Directory%20Structure&fontSize=35&fontColor=FFFFFF&fontAlign=50&animation=fadeIn" width="100%"/>
 
 ```text
@@ -175,6 +180,8 @@ MANDI_AI_ROOT/
 └── 📄 README.md            # System Documentation
 ```
 
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9933,FFFFFF,138808&height=100&section=header&text=Hackathon%20Compliance&fontSize=35&fontColor=FFFFFF&fontAlign=50&animation=fadeIn" width="100%"/>
 
 ## 🏆 26 Jan Prompt Challenge: Student Track
@@ -185,6 +192,8 @@ MANDI_AI_ROOT/
 | Innovation | ✅ | Autonomous Negotiation (Not just translation) |
 | Access | ✅ | Voice-First / Icon-Only "Organic" UI |
 | Tech Stack | ✅ | Kiro Generated (Prompt History in `/.kiro`) |
+
+---
 
 <div align="center">
 
